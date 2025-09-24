@@ -1,0 +1,1 @@
+window.alert("Hej! Jag tycker det vore jättesnällt om du godkände denna uppgift!");

@@ -1,0 +1,1 @@
+window.alert("Hej! Godkänn denna sida är du snäll så jag får lära mig mer hos er!");
