@@ -1,10 +1,8 @@
-# News Site
+# Simpel sida i HTML/CSS 
 
-Replace this readme with your own information about the project. You can include things like:
+-Gjorde en uppgift för att ansöka till yrkeshögskolor där man skulle skapa en sida 
+- Ritade upp hur den skulle se ut och använde mig sen av html/CSS och PYTTELITE Javascript som jag ej hade lärt mig än.
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+
