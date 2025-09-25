@@ -8,7 +8,7 @@ Uppgiften gick ut på:
 
 # Tillägg jag gjorde
 Jag tyckte detta var ett ypperligt tillfälle att träna på kommandon i terminalen som jag tycker är
-lite svårbegripligt i dagsläget då jag aldrig gjordt det, och valde därför att pusha och commita
+lite svårbegripligt i dagsläget då jag aldrig gjort det, och valde därför att pusha och commita
 ett litet projekt jag gjorde våren 2025 med **HTML**, **CSS** och liiiiiiite **JavaScript**.
 Detta var ett antagningsprov till en yrkeshögskola. 
 
